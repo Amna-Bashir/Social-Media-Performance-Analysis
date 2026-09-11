@@ -50,16 +50,10 @@ aligns with the users interacting with each advertisement.
 
 ```text
 social-media-ad-analysis/
-│
-├── data/
-│   └── README.md
-││
-├── src/
-│   ├── data_loader.py
-│   ├── preprocessing.py
-│   ├── metrics.py
-│   ├── analysis.py
-│   ├── visualization.py
-│   └── main.py
-│
+│── data_loader.py
+│── preprocessing.py
+│── metrics.py
+│── analysis.py
+│── visualization.py
+│── main.py
 └── README.md
